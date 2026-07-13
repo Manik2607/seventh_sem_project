@@ -1,0 +1,1 @@
+ninja: error: Stat(rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/C_/Users/vishn/Documents/smart-civic/frontend/node_modules/react-native-gesture-handler/shared/shadowNodes/react/renderer/components/rngesturehandler_codegen/RNGestureHandlerDetectorShadowNode.cpp.o): Filename longer than 260 characters

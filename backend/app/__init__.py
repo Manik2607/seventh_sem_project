@@ -1,0 +1,1 @@
+# Smart Civic Platform App

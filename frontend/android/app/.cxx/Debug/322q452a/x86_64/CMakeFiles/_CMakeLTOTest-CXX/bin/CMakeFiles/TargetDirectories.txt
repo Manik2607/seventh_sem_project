@@ -1,0 +1,4 @@
+C:/Users/vishn/Documents/smart-civic/frontend/android/app/.cxx/Debug/322q452a/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+C:/Users/vishn/Documents/smart-civic/frontend/android/app/.cxx/Debug/322q452a/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+C:/Users/vishn/Documents/smart-civic/frontend/android/app/.cxx/Debug/322q452a/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+C:/Users/vishn/Documents/smart-civic/frontend/android/app/.cxx/Debug/322q452a/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir

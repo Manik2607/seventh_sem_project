@@ -1,0 +1,27 @@
+{
+  "installationFolder": "C:\\Users\\vishn\\Documents\\smart-civic\\frontend\\node_modules\\react-native-worklets\\android\\build\\intermediates\\prefab_package\\debug\\prefab",
+  "gradlePath": ":react-native-worklets",
+  "packageInfo": {
+    "packageName": "react-native-worklets",
+    "packageVersion": "0.10.2",
+    "packageSchemaVersion": 2,
+    "packageDependencies": [],
+    "modules": [
+      {
+        "moduleName": "worklets",
+        "moduleHeaders": "C:\\Users\\vishn\\Documents\\smart-civic\\frontend\\node_modules\\react-native-worklets\\android\\build\\prefab-headers\\worklets",
+        "moduleExportLibraries": [],
+        "abis": [
+          {
+            "abiName": "x86_64",
+            "abiApi": 24,
+            "abiNdkMajor": 27,
+            "abiStl": "c++_shared",
+            "abiLibrary": "C:\\Users\\vishn\\Documents\\smart-civic\\frontend\\node_modules\\react-native-worklets\\android\\build\\intermediates\\cxx\\Debug\\415f5a5l\\obj\\x86_64\\libworklets.so",
+            "abiAndroidGradleBuildJsonFile": "C:\\Users\\vishn\\Documents\\smart-civic\\frontend\\node_modules\\react-native-worklets\\android\\.cxx\\Debug\\415f5a5l\\x86_64\\android_gradle_build.json"
+          }
+        ]
+      }
+    ]
+  }
+}
